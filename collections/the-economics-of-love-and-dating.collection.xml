@@ -1,89 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col24329</md:content-id>
-  <md:title>The Economics of Love and Dating</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9ec210fa-00ff-42ec-abae-977793564523</md:uuid>
-<md:slug>the-economics-of-love-and-dating</md:slug>
-</metadata>
-
+    <md:content-id>col24329</md:content-id>
+    <md:title>The Economics of Love and Dating</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9ec210fa-00ff-42ec-abae-977793564523</md:uuid>
+    <md:slug>the-economics-of-love-and-dating</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m66165"/>
-        
-      
-    
-    
-      <col:module document="m66162"/>
-        
-      
-    
-    
-      <col:module document="m66174"/>
-        
-      
-    
-    
-      <col:module document="m66175"/>
-        
-      
-    
-    
-      <col:module document="m66166"/>
-        
-      
-    
-    
-      <col:module document="m66163"/>
-        
-      
-    
-    
-      <col:module document="m66170"/>
-        
-      
-    
-    
-      <col:module document="m66169"/>
-        
-      
-    
-    
-      <col:module document="m66167"/>
-        
-      
-    
-    
-      <col:module document="m66172"/>
-        
-      
-    
-    
-      <col:module document="m66168"/>
-        
-      
-    
-    
-      <col:module document="m66173"/>
-        
-      
-    
-    
-      <col:module document="m66161"/>
-        
-      
-    
+    <col:module document="m66165"/>
+    <col:module document="m66162"/>
+    <col:module document="m66174"/>
+    <col:module document="m66175"/>
+    <col:module document="m66166"/>
+    <col:module document="m66163"/>
+    <col:module document="m66170"/>
+    <col:module document="m66169"/>
+    <col:module document="m66167"/>
+    <col:module document="m66172"/>
+    <col:module document="m66168"/>
+    <col:module document="m66173"/>
+    <col:module document="m66161"/>
   </col:content>
 </col:collection>
